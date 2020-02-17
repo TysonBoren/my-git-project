@@ -1,6 +1,6 @@
 ### My Git Project
 
-> My code for the git project
+> myscary merge conflict
 
 modified. 
 
